@@ -6,6 +6,7 @@ import './App.css';
 
 import HomePage from './pages/homepage/homepage';
 
+// Hardcode page for testing router
 const HatsPage = () => (
   <div>
     <h1>HATS PAGE</h1>
